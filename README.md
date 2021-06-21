@@ -11,9 +11,9 @@
 
 
 
-[![johnbunnyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbunnyan&show_icons=true&theme=merko
+![johnbunnyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbunnyan&show_icons=true&theme=merko
 
-)](https://github.com/anuraghazra/github-readme-stats)
+)(https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac
