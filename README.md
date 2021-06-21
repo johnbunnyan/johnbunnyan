@@ -1,9 +1,8 @@
 # `여긴 내 홈 그라운드`
 ## 유혹에 맞서서 제껴라🔥
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![Intel](https://img.shields.io/badge/language-node.js-brightgreen?style=flat-square&logo=Node.js&logoColor=white)
 
-[![Language node.js](https://img.shields.io/badge/language-node.js-brightgreen)](https://travis-ci.org/joemccann/dillinger)
 
 
 
