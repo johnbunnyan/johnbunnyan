@@ -10,6 +10,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohnbunnyan%2Fjohnbunnyan&count_bg=%23F4F935&title_bg=%233BC963&icon=icloud.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+
 
 <!--
 **johnbunnyan/johnbunnyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
