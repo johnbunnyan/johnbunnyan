@@ -1,5 +1,5 @@
 ### Hi there 👋
-[!Stack]https://img.shields.io/badge/language-node.js-brightgreen&logo=nodedot.js&logoClolor=#339933
+[!Stack](https://img.shields.io/badge/language-node.js-brightgreen&logo=nodedot.js&logoClolor=#339933)
 
 <!--
 **johnbunnyan/johnbunnyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
