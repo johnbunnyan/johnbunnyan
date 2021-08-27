@@ -5,7 +5,7 @@
  what is essential is invisible to the eye.  -The Little Prince
 ```
 
->I would like to be a lgiht even in the darkest places.<br>
+>I'd like to be a light even in the darkest places like the star.<br>
 >**I'm Back-End Developer, Jeong Sanggyu.**
 
 
