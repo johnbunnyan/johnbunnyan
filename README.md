@@ -2,11 +2,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohnbunnyan&count_bg=%2367D1C8&title_bg=%23555555&icon=buzzfeed.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ```
- what is essential is invisible to the eye.  -The Little Prince
+도중에 포기하지 말라. 망설이지 말라. 최후의 성공을 거둘 때까지 밀고 나가자. –  헨리포드
 ```
 
->I'd like to be a light even in the darkest place like a star.<br>
->**I'm Back-End Developer, Jeong Sanggyu.**
+>돈키호테처럼 살고 싶은<br>
+>**백엔드 개발자 정상규입니다.**
 
 
 
