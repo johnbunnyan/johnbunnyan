@@ -12,15 +12,15 @@
 
 ## 🌟Language & Stack
 ![Intel](https://img.shields.io/badge/JavaScript-★★★☆☆-yellow?style=flat-square&logo=JavaScript&logoColor=white)<br>
-* Class 개념 중 proto에 대해 더 알아보자.
+
 <br>
 
 ![Intel](https://img.shields.io/badge/Node.js-★★★☆☆-brightgreen?style=flat-square&logo=Node.js&logoColor=white)<br>
-* stream과 buffer의 플로우
+
 <br>
 
 ![Intel](https://img.shields.io/badge/AWS-★★★☆☆-orange?style=flat-square&logo=Amazon&logoColor=white)<br>
-* serverless 서비스 조사
+
 
 
 
