@@ -41,6 +41,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yelloz)](https://solved.ac/yelloz)
 
+<a href="https://app.daily.dev/johnbunnyan"><img src="https://api.daily.dev/devcards/c1be9750fd864fb9901f44499506668f.png?r=v36" width="400" alt="johnbunnyan's Dev Card"/></a>
 
 
 
