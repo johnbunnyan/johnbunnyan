@@ -9,8 +9,8 @@
 >**백엔드 개발자 정상규입니다.**
 
 ### 📙 Blog Posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 🌟Language & Stack
